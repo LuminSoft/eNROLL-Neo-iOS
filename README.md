@@ -1,2 +1,2 @@
 # eNROLL-Neo-iOS
-eNROLL-Neo-iOS branch
+binaries for eNROLL Neo sdk
