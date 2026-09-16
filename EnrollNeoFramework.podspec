@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'EnrollNeoFramework'
-  s.version          = "1.0.23"
+  s.version          = "1.0.24"
   s.summary          = 'eNROLL Neo iOS Framework'
 
 
@@ -31,7 +31,6 @@ Pod::Spec.new do |s|
   }
   
   s.static_framework = true
-  
   s.dependency 'EnrollNeoCore','1.0.23'
   s.dependency 'NFCPassportReader'
 
