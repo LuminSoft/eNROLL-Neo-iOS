@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'EnrollNeoFramework'
-  s.version          = "1.0.26"
+  s.version          = "1.0.27"
   s.summary          = 'eNROLL Neo iOS Framework'
 
 # This description is used to generate tags and improve search results.
