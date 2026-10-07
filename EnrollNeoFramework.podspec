@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'EnrollNeoFramework'
-  s.version          = "1.0.29"
+  s.version          = "1.0.30"
   s.summary          = 'eNROLL Neo iOS Framework'
 
 # This description is used to generate tags and improve search results.
@@ -17,10 +17,7 @@ Pod::Spec.new do |s|
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
-  s.description      = <<-DESC
-TODO: Add long description of the pod here.
-                       DESC
-
+  s.description      = 'EnrollNeoFramework is an internally developed SDK for eKYC services.'
   s.homepage         = 'https://github.com/LuminSoft/eNROLL-Neo-iOS'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'LuminSoft' => 'mariam.ismail@luminsoft.net' }
