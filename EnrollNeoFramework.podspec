@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'EnrollNeoFramework'
-  s.version          = "1.0.27"
+  s.version          = "1.0.28"
   s.summary          = 'eNROLL Neo iOS Framework'
 
 # This description is used to generate tags and improve search results.
@@ -28,7 +28,7 @@ TODO: Add long description of the pod here.
   
   s.platform     = :ios, '15.5'
 
-  s.vendored_frameworks = s.version.to_s + "/EnrollNeoFramework.xcframework"
+  s.vendored_frameworks = s.version.to_s + "/EnrollFramework.xcframework"
   
   s.dependency 'EnrollNeoCore','1.0.23'
   s.dependency 'NFCPassportReader','2.3.1'
